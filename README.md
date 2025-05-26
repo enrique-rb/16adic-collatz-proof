@@ -2,7 +2,7 @@
 **Enrique A. Ramirez Bochard**  
 
 ## Contents  
-- **Preprint**: [`ramirez-bochard_collatz_proof_16adic.pdf`](docs/ramirez-bochard_collatz_proof_16adic_2024-05-26.pdf)  
+- **Preprint**: [`ramirez-bochard_collatz_proof_16adic.pdf`](docs/ramirez-bochard_collatz_proof_16adic_2024_05_26.pdf)  
 - **Key Lemmas**: [`collatz_key_lemmas_excerpt.pdf`](docs/collatz_key_lemmas_excerpt.pdf)  
 - **Verification Code**: [`collatz_16adic_verification.cpp`](code/collatz_16adic_verification.cpp)  
 
