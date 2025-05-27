@@ -21,3 +21,6 @@ The proof is self-contained, requiring only modular arithmetic and combinatorial
    ```bash
    ./collatz_verify
    ```  
+## 🔍 How to Find This Work  
+- On Zenodo, search: `"Collatz Conjecture" AND "16-adic"`  
+- Or use the DOI: [10.5281/zenodo.15516923](https://doi.org/10.5281/zenodo.15516923)  
