@@ -10,7 +10,7 @@ The proof is self-contained, requiring only modular arithmetic and combinatorial
 ## 📚 Two Ways to Read This Work  
 
 ### Option A: Technical Proof (Original Paper)  
-- **Full PDF**: [Download here](docs/ramirez-bochard_collatz_proof_16adic_2025-05-26.pdf)  
+- **Full PDF**: [Download here](docs/ramirez-bochard_collatz_proof_16adic.pdf)  
 - **Key Lemmas**: [Excerpt](docs/key_lemmas.pdf) *(3-page summary of critical steps)*  
 
 ### Option B: Simplified Explanation (New!)  
