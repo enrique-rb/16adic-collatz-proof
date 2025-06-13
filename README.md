@@ -7,20 +7,23 @@
 We prove the Collatz Conjecture via **uniform 16-adic descent** and **prime decay**, eliminating infinite cycles. 
 The proof is self-contained, requiring only modular arithmetic and combinatorial reasoning. 
 
-## Repository Contents
-- **Preprint**: [`ramirez-bochard_collatz_proof_16adic.pdf`](docs/ramirez-bochard_collatz_proof_16adic_2025_05_26.pdf)  
-- **Key Lemmas**: [`collatz_key_lemmas_excerpt.pdf`](docs/collatz_key_lemmas_excerpt.pdf)  
-- **Verification Code**: [`collatz_16adic_verification.cpp`](code/collatz_16adic_verification.cpp)  
+## 📚 Two Ways to Read This Work  
 
-## How to Verify  
-1. Compile the C++ code with:  
+### Option A: Technical Proof (Original Paper)  
+- **Full PDF**: [Download here](docs/ramirez-bochard_collatz_proof_16adic.pdf)  
+- **Key Lemmas**: [Excerpt](docs/key_lemmas.pdf) *(3-page summary of critical steps)*  
+
+### Option B: Simplified Explanation (New!)  
+- **Plain-English Guide**: [Read here](docs/ramirez-bochard_collatz_proof_16adic_introduction.pdf) *(For students/non-specialists)*  
+
+## 🔬 Verification Tools  
+1. **C++ Program**:  
    ```bash
-   g++ -std=c++17 -O3 code/collatz_16adic_verification.cpp -o collatz_verify
-   ```  
-2. Run:  
-   ```bash
-   ./collatz_verify
-   ```  
+   g++ -std=c++17 -O3 code/verify.cpp -o collatz && ./collatz
+
+2. **Prime Chain Examples:**:  
+   See [Read here](docs/prime_examples.pdf)
+
 ## 🔍 How to Find This Work  
 - On Zenodo, search: `"Collatz Conjecture" AND "16-adic"`  
 - Or use the DOI: [10.5281/zenodo.15516923](https://doi.org/10.5281/zenodo.15516923)  
