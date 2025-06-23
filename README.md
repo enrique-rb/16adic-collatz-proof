@@ -1,8 +1,8 @@
 # 16-adic Proof of the Collatz Conjecture  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15516922.svg)](https://doi.org/10.5281/zenodo.15516922)  
+**Author:** [Enrique A. Ramirez Bochard](https://orcid.org/0009-0005-9929-193X)  
 
-**Enrique A. Ramirez Bochard**  
-**Author:** [Enrique A. Ramirez Bochard](https://orcid.org/0009-0005-9929-193X)
+**This Work:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15516922.svg)](https://doi.org/10.5281/zenodo.15516922)  
+**Companion Work (Goldbach):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15722143.svg)](https://doi.org/10.5281/zenodo.15722143)  
 
 ## Abstract  
 We prove the Collatz Conjecture via **uniform 16-adic descent** and **prime decay**, eliminating infinite cycles. 
