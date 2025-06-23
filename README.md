@@ -1,5 +1,5 @@
 # 16-adic Proof of the Collatz Conjecture  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15516923.svg)](https://doi.org/10.5281/zenodo.15516923)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15516923.svg)](https://doi.org/10.5281/zenodo.15516922)  
 
 **Enrique A. Ramirez Bochard**  
 
